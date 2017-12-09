@@ -1,2 +1,2 @@
 # website
-Companies website and billing application
+Company website and billing application 
